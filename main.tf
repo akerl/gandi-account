@@ -11,19 +11,7 @@ provider "gandi" {}
 
 locals {
   ignore_domains = [
-    "a-rwx.org",
-    "akerl.com",
-    "akerl.net",
-    "akerl.org",
-    "aliceaker.com",
-    "carolineaker.com",
-    "coolquotes.xyz",
-    "happilyeveraker.com",
     "id-ed25519.pub",
-    "kellywatts.com",
-    "lesaker.com",
-    "lesaker.org",
-    "scrtybybscrty.org",
   ]
 }
 
